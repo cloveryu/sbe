@@ -9,8 +9,8 @@ repositories {
 }
 
 dependencies {
-    compile 'org.scala-lang:scala-library:2.10.1'
     compile 'com.google.guava:guava:14.0'
+    compile 'org.scala-lang:scala-library:2.10.0'
     testCompile 'junit:junit:4.8.2'
     testCompile 'org.concordion:concordion:1.4.2'
 }
